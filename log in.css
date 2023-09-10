@@ -1,0 +1,77 @@
+.body{
+    background-image: url(صور\ التاسك\ الشامل/login.jpg);
+    background-size: cover;
+
+}
+.form{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 40%;
+
+}
+.fieldset{
+    border: 5px solid yellowgreen; 
+}
+
+.text{
+    border: 2px slateblue solid;
+}
+.email{
+    border: 2px slateblue solid;
+}
+.pass{
+    border: 2px slateblue solid;
+}
+.lastb{
+    background-color: cornflowerblue;
+}
+.end{
+   text-align: center;
+   margin-top: 20%;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-bottom: 10%;
+   font-size: 30px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: chocolate;
+}
+.back:hover{
+    transform:scale(0,9,0,9);
+    background-color: deeppink;
+
+}
+.check{
+    border: 5px solid violet ;
+    padding: 5%;
+    margin-right: 5%;
+}
+.sum{
+    /* background-image:  url(pexels-scott-webb-311458.jpg); */
+    background-image: url(صور\ التاسك\ الشامل/login.jpg);
+    background-size: cover;
+        text-align: center;
+       margin-top: 10%;
+       margin-left: 10%;
+       margin-right: 10%;
+       margin-bottom: 10%;
+       font-size: 30px;
+       font-family:Verdana, Geneva, Tahoma, sans-serif;
+       background-color: chocolate;
+    }
+.comu{
+    background-color: chocolate;
+    background-size: cover;
+    text-align: center;
+   margin-top: 10%;
+   margin-left: 10%;
+   margin-right: 10%;
+   margin-bottom: 10%;
+   font-size: 30px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+ 

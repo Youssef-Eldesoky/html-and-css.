@@ -1,0 +1,65 @@
+.headeer{
+    border: 5px solid burlywood;
+    background-color: rgba(233, 150, 122, 0.114);
+    margin-right: 0%;
+    margin-left: 0%;
+}
+.imgs{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    margin-top:3%;
+    margin-right:3%;
+    margin-left:3%;
+}
+.imgs:hover{
+    transform:scale(0,9,0,9);
+}
+.log{
+    display:flex;
+    justify-content:space-around;
+    
+
+
+}.head1{
+    font-size:20px;
+    font-weight:600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+.conferm:hover{
+    transform:scale(0,9,0,9);
+    background-color: chartreuse;
+}
+/* a:hover{
+    transform:scale(0,9,0,9);
+    background-color: chartreuse;
+
+} */
+.تسجيل:hover{
+    transform:scale(0,9,0,9);
+    background-color: chartreuse;
+}
+.form{
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+
+}
+.fieldset{
+    border: 5px solid yellowgreen; 
+}
+
+.text{
+    border: 2px slateblue solid;
+}
+.body3{
+    /* background-image: url(صور\ التاسك\ الشامل/login.jpg); */
+    /* background-image: url( صور\ التاسك\ الشامل/lighter.jpg); */
+    background-size: cover;
+    background-color: burlywood;
+}
